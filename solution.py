@@ -8,7 +8,7 @@ def welcome_assignment_answers(question):
     elif question == "Are encoding and encryption the same?":
         answer = "No"
     elif question == "Is it possible to decrypt a message without a key?":
-        answer = "No"
+        answer = "Yes"
     elif question == "Is it possible to decode a message without a key":
         answer = "No"
     elif question == "Is a hashed message supposed to be un-hashed?":
