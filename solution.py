@@ -23,7 +23,7 @@ def welcome_assignment_answers(question):
         answer = "3"
     return answer
 
-print(welcome_assignment_answers(answer))
+print(welcome_assignment_answers(question))
 # Complete all the questions.
 
 #if __name__ == "__main__":
