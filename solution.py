@@ -21,7 +21,8 @@ def welcome_assignment_answers(question):
         answer = "4"
     elif question == "What layer of the TCP/IP model the protocol TCP belongs to?":
         answer = "3"
-    else answer = Unknown
+    else
+        answer = "Unknown"
     return answer
 
 #if __name__ == "__main__":
